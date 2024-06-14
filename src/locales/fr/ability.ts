@@ -471,7 +471,7 @@ export const ability: AbilityTranslationEntries = {
   },
   honeyGather: {
     name: "Cherche Miel",
-    description: "Le Pokémon peut parfois trouver du Miel après un combat.",
+    description: "The Pokémon gathers Honey after a battle. The Honey is then sold for money.",
   },
   frisk: {
     name: "Fouille",
@@ -897,7 +897,7 @@ export const ability: AbilityTranslationEntries = {
     name: "Boost Chimère",
     description: "Augmente la stat la plus élevée du Pokémon quand il met K.O. un autre Pokémon.",
   },
-  rKSSystem: {
+  rksSystem: {
     name: "Système Alpha",
     description: "Change le type du Pokémon en fonction de la ROM équipée.",
   },
